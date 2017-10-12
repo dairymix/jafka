@@ -18,3 +18,13 @@ __pycache__
 *.iml
 pom-*.xml
 dist
+
+# IDEA metadata and output dirs
+*.iml
+*.ipr
+*.iws
+out
+
+# mac metadata
+.DS_Store
+
